@@ -1,0 +1,38 @@
+div {
+    width:200px;
+    height:200px;
+    background:#696969;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    border:1px solid black;    
+}
+.uno {
+    position:relative;
+    margin-top:20px;
+}
+.padre {
+    width:710px;
+    height:250px;
+    position:relative;
+    
+}
+.dos {
+    position:relative;
+    float:left;
+    top:12px;
+    left:12px;
+    margin:12px;
+}
+
+.tres {
+    position: relative;
+    float:left;
+}
+.cuatro {
+    position:relative;
+    left:230px;   
+}
+.cinco {
+    position:relative;
+    float:left;
+}
