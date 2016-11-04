@@ -9,6 +9,7 @@ div {
 .uno {
     position:relative;
     margin-top:20px;
+    margin-bottom:
 }
 .padre {
     width:560px;
@@ -25,14 +26,11 @@ div {
 }
 
 .tres {
-    position: relative;
     float:left;
 }
 .cuatro {
-    position:relative;
     left:180px;   
 }
 .cinco {
-    position:relative;
     float:left;
 }
