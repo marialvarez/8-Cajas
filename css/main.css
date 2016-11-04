@@ -1,6 +1,6 @@
 div {
-    width:200px;
-    height:200px;
+    width:150px;
+    height:150px;
     background:#696969;
     margin-bottom: 20px;
     margin-left: 15px;
@@ -11,8 +11,8 @@ div {
     margin-top:20px;
 }
 .padre {
-    width:710px;
-    height:250px;
+    width:560px;
+    height:200px;
     position:relative;
     
 }
@@ -30,7 +30,7 @@ div {
 }
 .cuatro {
     position:relative;
-    left:230px;   
+    left:180px;   
 }
 .cinco {
     position:relative;
